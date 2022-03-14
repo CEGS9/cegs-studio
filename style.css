@@ -32,4 +32,8 @@
     height: 100px;
     background-color: rgb(17, 145, 196);
     color:white;
+    border-top: solid white;
+    text-align: center;
+    vertical-align: center;
+    font-family: 'Ubuntu Mono', monospace;
 }
